@@ -2,9 +2,9 @@
 ## Laboratory of Geodesy <br /> Geodetic alignment
 
 <p align="justify">
-</p>
-
-<p align="justify">
+The department of alignment in geodetic systems is committed to research on
+alignment procedures to brings photogrammetric results in the differents
+geodetic systems.
 </p>
 
 ### Copyright
